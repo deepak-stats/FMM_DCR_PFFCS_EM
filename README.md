@@ -25,5 +25,5 @@ EP_CPs and ALs.R
 
 GE_CPs and ALs.R
 
-Setting the paramter values, n, m, k and the scheme will give you the average estimates, mean square error, coverage prbability (CP) and average lenghth (AL). For example, the settings are set in the code as: alpha_1=4.75, lambda_1=2.25, alpha_2=1.75, lambda_2=1.20, pi=0.40, k=3, n=60, m=60, with scheme III R=c(rep(0,m/2-1),(n-m),rep(0,m/2)). Feel free to contact me if you have any problem in running the codes, Email id: deepakprajapati@iiml.ac.in. 
+Setting the paramter values, n, m, k and the scheme will give you the average estimates, mean square errors, coverage probabilitys (CPs) and average lenghths (ALs). For example, the settings are set in the code as: alpha_1=4.75, lambda_1=2.25, alpha_2=1.75, lambda_2=1.20, pi=0.40, k=3, n=60, m=60, with scheme III R=c(rep(0,m/2-1),(n-m),rep(0,m/2)). Feel free to contact me if you have any problem in running the codes, Email id: deepakprajapati@iiml.ac.in. 
 
